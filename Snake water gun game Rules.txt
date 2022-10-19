@@ -1,0 +1,10 @@
+Water SNAKE Gun
+# Rules:-
+# Snake vs. Water: Snake drinks the water hence snake win the game.
+# Water vs. Gun: The gun will drown in water, hence water win the game
+# Gun vs. Snake: Gun will kill the snake and win the game.
+# In situations where both players choose the same object, the result will be a draw.
+
+#BEFORE PLAY THIS GAME YOU MUST BE AWARE ABOUT THIS GAME
+
+DEVELOPED BY MR.RICK SAHA
